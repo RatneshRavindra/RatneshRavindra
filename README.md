@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RatneshRavindra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Fraud Detection Based Projects
+- 👀 I’m interested in Data Science 
+- 💞️ I’m currently working on some data analytics projects
 - 📫 How to reach me ratneshpuralkar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
