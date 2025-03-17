@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RatneshRavindra
 - 👀 I’m interested in Data Science 
 - 💞️ I’m currently working on some data analytics projects
-- 📫 How to reach me ratneshpuralkar@gmail.com
+- 📫 How to reach me ratneshpuralkar@gmail.com, https://www.linkedin.com/in/ratnesh-puralkar/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
