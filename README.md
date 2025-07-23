@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @RatneshRavindra
-- 👀 I’m interested in Data Science 
-- 💞️ I’m currently working on some data analytics projects
-- 📫 How to reach me ratneshpuralkar@gmail.com, https://www.linkedin.com/in/ratnesh-puralkar/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there, I'm Ratnesh Puralkar 👋</h1>
 
-<!---
-RatneshRavindra/RatneshRavindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Data Analyst | Aspiring Data Scientist | Lifelong Learner</b>  
+</p>
+
+---
+
+🚀 **About Me**
+
+I'm a passionate Data Analyst with a strong foundation in Statistics and hands-on experience in data wrangling, visualization, and machine learning. I hold a BSc in Statistics from Bhavan’s College and am currently pursuing an MSc in Statistics from the University of Mumbai. I love transforming raw data into meaningful insights that drive decision-making and impact.
+
+🔍 Whether it's cleaning messy datasets, building predictive models, or visualizing trends with Power BI or Python, I thrive on solving real-world problems using data.
+
+---
+
+🛠️ **Tech Stack & Tools**
+- **Languages**: Python, R, SQL
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Databases**: MySQL, MS Access
+- **Visualization**: Power BI, Excel, Matplotlib
+- **Others**: Git, Jupyter, Google Colab, VS Code
+
+---
+
+📈 **What I’m Currently Working On**
+- Building projects on international debt statistics and commodity market trends 📊
+- Improving my skills in Deep Learning (ANNs & CNNs)
+- Creating dashboards that connect SQL + Power BI for end-to-end data storytelling
+
+---
+
+🎯 **Goals for 2025**
+- 💼 Land a role in a data-driven team where I can apply my analytical skills
+- 📊 Publish more real-world projects on GitHub
+- 🎓 Contribute to open-source and learn from the global data community
+
+---
+
+📫 **Let’s Connect**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ratnesh-puralkar)
+- 💻 [GitHub](https://github.com/RatneshRavindra)
+- 📧 Email: ratneshpuralkar@gmail.com
+
+---
+
+✨ *"Data is the new oil — I’m here to dig, clean, and refine it into something powerful."*
