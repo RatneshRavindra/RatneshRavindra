@@ -15,7 +15,7 @@ I'm a passionate Data Analyst with a strong foundation in Statistics and hands-o
 ---
 
 🛠️ **Tech Stack & Tools**
-- **Languages**: Python, R, SQL
+- **Languages**: Python, R, SQL, Machine Learning, Deep Learning
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Databases**: MySQL, MS Access
 - **Visualization**: Power BI, Excel, Matplotlib
@@ -24,9 +24,9 @@ I'm a passionate Data Analyst with a strong foundation in Statistics and hands-o
 ---
 
 📈 **What I’m Currently Working On**
-- Building projects on international debt statistics and commodity market trends 📊
-- Improving my skills in Deep Learning (ANNs & CNNs)
-- Creating dashboards that connect SQL + Power BI for end-to-end data storytelling
+- Building projects on Financial Data with python and learning Data Science courses 📊
+- Improving my skills in Data analysis, Data visualization and Data storytelling
+- Creating dashboards in Power BI for end-to-end data storytelling
 
 ---
 
