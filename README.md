@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Ratnesh Puralkar 👋</h1>
 
+<h1 align="center">MIS Executive at Hardcastle Restaurants pvt. ltd </h1>
 <p align="center">
   <b>Data Analyst | Aspiring Data Scientist | Lifelong Learner</b>  
 </p>
