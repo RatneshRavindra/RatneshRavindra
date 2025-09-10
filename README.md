@@ -9,7 +9,7 @@
 
 🚀 **About Me**
 
-I'm a passionate Data Analyst with a strong foundation in Statistics and hands-on experience in data wrangling, visualization, and machine learning. I hold a BSc in Statistics from Bhavan’s College and am currently pursuing an MSc in Statistics from the University of Mumbai. I love transforming raw data into meaningful insights that drive decision-making and impact.
+I'm a passionate Data Analyst with a strong foundation in Statistics and hands-on experience in data wrangling, visualization, and machine learning. I hold a BSc in Statistics from Bhavan’s College and MSc in Statistics from the University of Mumbai. I love transforming raw data into meaningful insights that drive decision-making and impact.
 
 🔍 Whether it's cleaning messy datasets, building predictive models, or visualizing trends with Power BI or Python, I thrive on solving real-world problems using data.
 
