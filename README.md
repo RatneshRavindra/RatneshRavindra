@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ratnesh Puralkar 👋</h1>
 
-<h1 align="center">MIS Executive at Hardcastle Restaurants pvt. ltd </h1>
+<h1 align="center">Executive at Burma Burma Restaurant and Tea Room</h1>
 <p align="center">
   <b>Data Analyst | Aspiring Data Scientist | Lifelong Learner</b>  
 </p>
@@ -31,7 +31,7 @@ I'm a passionate Data Analyst with a strong foundation in Statistics and hands-o
 
 ---
 
-🎯 **Goals for 2025**
+🎯 **Goals for 2026**
 - 💼 Land a role in a data-driven team where I can apply my analytical skills
 - 📊 Publish more real-world projects on GitHub
 - 🎓 Contribute to open-source and learn from the global data community
