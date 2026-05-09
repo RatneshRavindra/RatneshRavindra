@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ratnesh Puralkar 👋</h1>
 
-<h1 align="center">Executive at Burma Burma Restaurant and Tea Room</h1>
+<h1 align="center">MIS Associate at Tata Motors</h1>
 <p align="center">
   <b>Data Analyst | Aspiring Data Scientist | Lifelong Learner</b>  
 </p>
